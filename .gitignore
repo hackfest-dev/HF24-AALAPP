@@ -1,0 +1,4 @@
+#ignore the files in the data set folder
+/output/*
+/raw/*
+/models/*
